@@ -1,0 +1,6 @@
+CREATE TABLE zad8(id tinyint, quality float, date date, class char)
+
+INSERT INTO zad8 VALUES(256,100.49,'2016-01-01','test');
+INSERT INTO zad8 VALUES(256,100.9999999999,'2016-01-01','test');
+INSERT INTO zad8 VALUES(255,100.49,'2016-01-01','test');
+INSERT INTO zad8 VALUES(100,100.99999999999999999,'2016-01-01','test');
