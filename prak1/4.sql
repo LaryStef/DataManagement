@@ -1,0 +1,1 @@
+CREATE TABLE zad4(col_1 tinyint, col_2 decimal(7, 6))
