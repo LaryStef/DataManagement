@@ -4,6 +4,6 @@ CREATE TABLE zad11 (
     CONSTRAINT PK_zad11 PRIMARY KEY (id, name)
 );
 
-INSERT INTO названиеВашейТаблицы(name) VALUES('zapis_1');
-INSERT INTO названиеВашейТаблицы(name) VALUES('zapis_2');
-INSERT INTO названиеВашейТаблицы(name) VALUES('zapis_3');
+INSERT INTO zad11 VALUES('zapis_1');
+INSERT INTO zad11 VALUES('zapis_2');
+INSERT INTO zad11 VALUES('zapis_3');
