@@ -1,0 +1,1 @@
+SELECT CurrencyRateDate,FromCurrencyCode,ToCurrencyCode FROM Sales.CurrencyRate WHERE CurrencyRateDate BETWEEN '2011.01.01' AND '2014.01.01' AND FromCurrencyCode='USD' AND ToCurrencyCode='EUR';

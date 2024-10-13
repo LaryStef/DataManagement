@@ -1,0 +1,1 @@
+SELECT AddressLine2 FROM Person.Address WHERE AddressLine2 is not null AND PostalCode LIKE '%1__';

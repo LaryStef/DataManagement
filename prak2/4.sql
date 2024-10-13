@@ -1,0 +1,1 @@
+SELECT Person.BusinessEntityID,Password.BusinessEntityID FROM Person.Person,Person.Password;

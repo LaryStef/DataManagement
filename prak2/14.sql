@@ -1,0 +1,1 @@
+SELECT Name,ProductNumber FROM Production.Product WHERE ProductID BETWEEN 300 AND 400;

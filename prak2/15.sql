@@ -1,0 +1,1 @@
+SELECT AddressLine1,City FROM Person.Address WHERE AddressLine1 LIKE '%sun%';

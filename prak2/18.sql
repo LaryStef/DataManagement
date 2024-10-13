@@ -1,0 +1,1 @@
+SELECT FirstName = CASE FirstName WHEN 'James' THEN 'rainbow' WHEN 'Kim' THEN 'sun' END FROM Person.Person WHERE FirstName IN ('James', 'Kim');

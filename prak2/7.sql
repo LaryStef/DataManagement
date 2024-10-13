@@ -1,0 +1,1 @@
+SELECT * FROM Person.Address WHERE AddressLine2 is not null;

@@ -1,0 +1,1 @@
+SELECT CardNumber FROM Sales.CreditCard WHERE ExpMonth <= 1;

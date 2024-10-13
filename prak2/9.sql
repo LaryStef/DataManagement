@@ -1,0 +1,1 @@
+SELECT * FROM Person.Person WHERE MiddleName is null AND LastName='James';

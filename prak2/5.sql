@@ -1,0 +1,1 @@
+SELECT OrderQty,UnitPrice,LineTotal,OrderQty*UnitPrice FROM Purchasing.PurchaseOrderDetail;

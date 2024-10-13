@@ -1,0 +1,1 @@
+SELECT DISTINCT ProductID, StandardPrice FROM Purchasing.ProductVendor;

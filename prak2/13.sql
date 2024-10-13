@@ -1,0 +1,1 @@
+SELECT EndOfDayRate FROM Sales.CurrencyRate WHERE CurrencyRateDate='2013.03.20' AND FromCurrencyCode='USD' AND ToCurrencyCode='JPY';
