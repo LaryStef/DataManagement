@@ -1,0 +1,1 @@
+SELECT MAX(CommissionPct) FROM Sales.SalesPerson WHERE BusinessEntityID IN (277, 280, 288);

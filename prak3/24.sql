@@ -1,0 +1,1 @@
+SELECT ProductID, PurchaseOrderID, UnitPrice FROM Purchasing.PurchaseOrderDetail ORDER BY ProductID DESC;

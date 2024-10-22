@@ -1,0 +1,1 @@
+SELECT ProductID, PurchaseOrderID, UnitPrice, StockedQty FROM Purchasing.PurchaseOrderDetail WHERE LineTotal BETWEEN 10000 AND 20000 ORDER BY ProductID;

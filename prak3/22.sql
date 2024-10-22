@@ -1,0 +1,1 @@
+SELECT * FROM Sales.SalesTaxRate Order BY StateProvinceID, TaxRate, Name;

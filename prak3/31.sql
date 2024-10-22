@@ -1,0 +1,1 @@
+SELECT SUM(SalesYTD), AVG(Bonus) FROM Sales.SalesPerson GROUP BY ModifiedDate;

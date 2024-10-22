@@ -1,0 +1,1 @@
+SELECT Color, SUM(ListPrice) FROM Production.Product WHERE Color is not null AND Name LIKE '%tain%' GROUP BY Color;

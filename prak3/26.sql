@@ -1,0 +1,1 @@
+SELECT SUM(StandardCost) FROM Production.Product;
