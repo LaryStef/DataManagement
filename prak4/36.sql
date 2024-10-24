@@ -1,0 +1,1 @@
+SELECT * FROM Purchasing.Vendor JOIN Purchasing.ProductVendor ON null is null ORDER BY ProductID;
